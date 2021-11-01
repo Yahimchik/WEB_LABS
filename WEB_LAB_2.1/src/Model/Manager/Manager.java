@@ -25,7 +25,6 @@ public class Manager {
         return arrayList;
     }
 
-
     public ArrayList<InsuranceContracts> sortByContractName(ArrayList<InsuranceContracts> arrayList) {
         NameComparator comparator = new NameComparator();
         arrayList.sort(comparator);
