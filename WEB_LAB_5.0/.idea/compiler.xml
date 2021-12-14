@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Lab5Horbach" />
+        <module name="lab5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Lab5Horbach" target="15" />
+      <module name="lab5" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
